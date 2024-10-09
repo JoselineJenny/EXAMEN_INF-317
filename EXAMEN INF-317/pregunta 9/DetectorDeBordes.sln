@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectorDeBordes", "DetectorDeBordes\DetectorDeBordes.csproj", "{7A0D27E9-7996-4AD8-B17E-F42D2C4F6DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0D27E9-7996-4AD8-B17E-F42D2C4F6DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0D27E9-7996-4AD8-B17E-F42D2C4F6DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0D27E9-7996-4AD8-B17E-F42D2C4F6DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0D27E9-7996-4AD8-B17E-F42D2C4F6DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37E3450-F7ED-4FBD-86A9-8CD07960EE06}
+	EndGlobalSection
+EndGlobal

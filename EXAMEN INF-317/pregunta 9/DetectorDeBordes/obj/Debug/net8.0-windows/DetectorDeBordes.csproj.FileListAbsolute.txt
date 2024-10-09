@@ -1,0 +1,44 @@
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.Form1.resources
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.Properties.Resources.resources
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.csproj.GenerateResource.cache
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.AssemblyInfo.cs
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.exe
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.deps.json
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.runtimeconfig.json
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.pdb
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\Detector.3AF9F5C3.Up2Date
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\refint\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.pdb
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.genruntimeconfig.cache
+C:\Users\Jenny\Documents\317\CAL\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\ref\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.exe
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.deps.json
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.runtimeconfig.json
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\DetectorDeBordes.pdb
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.Form1.resources
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.Properties.Resources.resources
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.csproj.GenerateResource.cache
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.AssemblyInfo.cs
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\Detector.3AF9F5C3.Up2Date
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\refint\DetectorDeBordes.dll
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.pdb
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\DetectorDeBordes.genruntimeconfig.cache
+C:\Users\Jenny\Documents\317\EXAMEN INF-317\DetectorDeBordes\DetectorDeBordes\obj\Debug\net8.0-windows\ref\DetectorDeBordes.dll
